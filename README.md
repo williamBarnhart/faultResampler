@@ -11,9 +11,11 @@ Barnhart, W.D., Lohman, R.B. (2010) Automated fault model discretization for inv
 MATLAB,
 MATLAB Optimization Toolbox (for running the functions lsqlin and lsqnonlin)
 
+Brendan Meade's (Harvard University) triangular dislocation code: https://github.com/brendanjmeade/tde
+
 ## Installation:
-1) Download the respository into a location where you store MATLAB scripts
+1) Download the respository into a location where you store MATLAB scripts. Download the triangular dislocations code and place it in this folder as well.
 2) Read the README.pdf file
-3) Open MATLAB and add the program and subfolder to your path: addpath(genpath('/path/to/matlabfiles/faultResampler_v14'))
+3) Open MATLAB and add the program and subfolders to your path: addpath(genpath('/path/to/matlabfiles/faultResampler'))
 
 Questions or bugs? Email Bill Barnhart (william-barnhart-1 at uiowa dot edu)
